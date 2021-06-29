@@ -1,4 +1,4 @@
-Vectornav ROS Driver
+Vectornav ROS Driver(forked)
 ====================
 
 A ROS node for `VectorNav` INS & GPS devices.
